@@ -12,7 +12,10 @@ tvs 1200px
 
 @media screen and (min-width:768px) and (max-width:992px) /*Tablet*/{
     body{
-        background-image: linear-gradient(to left, rgb(60, 113, 60),rgb(33, 33, 33));
+        background-image: linear-gradient(to left, rgb(61, 151, 61),rgb(33, 33, 33));
+    }
+    section#login p{
+        text-align: center;
     }
     section#login{
         width: 80vw;
@@ -29,7 +32,10 @@ tvs 1200px
     }
 }@media screen and (min-width:992px) /*PC/Desktop*/{
     body{
-        background-image: linear-gradient(to right, rgb(60, 113, 60),rgb(33, 33, 33));
+        background-image: linear-gradient(to right, rgb(61, 151, 61),rgb(33, 33, 33));
+    }
+    section#login p{
+        text-align: center;
     }
     section#login{
         width: 950px;

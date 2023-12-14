@@ -10,7 +10,7 @@ html, body{
     height: 100vh;
 }
 body{
-    background-color: rgb(47, 84, 47);
+    background-color: rgb(61, 151, 61);
 }
 main{
     position: relative;
@@ -33,7 +33,7 @@ section#login{
     transition-timing-function: ease;
 }
 section#login> div#imagem{
-    background-image: url("../imagens/pexels-michael-fischer-606506\ \(1\).jpg");
+    background-image: url("../imagens/pexels-pixabay-414090.jpg");
     background-size: cover;
     height: 200px;
     background-position: center;
